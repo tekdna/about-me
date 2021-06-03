@@ -1,2 +1,2 @@
-my favor color is red
+my favor color is blue
 copyright
